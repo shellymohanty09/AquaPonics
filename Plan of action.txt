@@ -1,0 +1,10 @@
+Aquaponic System
+
+Plan of Action
+1)	Blender model explaining the working of an aquaponic system
+2)	Ui design of website 
+3)	Creating basic layout of website
+4)	Adding charts using chart js
+5)	Connection of hardware components
+6)	Connecting node mcu to firebase in order to store data obtained from sensors
+7)	Connecting website to firebase in order to display live information in graphs 
