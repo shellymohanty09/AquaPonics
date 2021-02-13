@@ -1,0 +1,92 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+
+    <title>Aquaponics</title>
+    <meta name="description" content="AquaPonics">
+    <meta name="author" content="SitePoint">
+
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+
+    <h1>Aquaponic System</h1>
+    <div class="row">
+        <div class="column">
+            <form id="pollForm">
+                <div class="poll">
+                    <div class="poll-heading">
+                        <h3 class="poll-title">Controls</h3>
+                    </div>
+                    <div class="poll-body">
+                        <ul>
+
+                            <li>
+                                <label><input type="radio" name="pollOptions" value="Temperature"><span>Temperature</span></label>
+                            </li>
+                            <li>
+                                <label><input type="radio" name="pollOptions" value="Humidity"><span>Humidity</span></label>
+                            </li>
+                            <li>
+                                <label><input type="radio" name="pollOptions" value="Water level"><span>Water level</span></label>
+                            </li>
+
+                        </ul>
+                    </div>
+                    <div class="poll-footer" id="increase">
+                      <button type="submit">Increase</button>
+                    </div>
+                    <div class="poll-footer" id="decrease" >
+                      <button type="submit">Decrease</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+
+
+        <div class="column">
+            <div class="chart-container1">
+                <canvas id="chart"></canvas>
+                <!--<canvas id="chart" style="width:400vh; height:800vw;"></canvas>-->
+            </div>
+
+            <div class="chart-container3">
+                <canvas id="chart3"></canvas>
+                <!-- <canvas id="chart" width="300" height="150"></canvas> -->
+            </div>
+        </div>
+
+        <div class="column">
+            <div class="chart-container2">
+                <!--<canvas id="chart2"></canvas>-->
+                <canvas id="chart2" width="60" height="70"></canvas>
+            </div>
+        </div>
+
+
+
+    </div>
+
+
+
+    <script src="scripts.js"></script>
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="/__/firebase/8.2.7/firebase-app.js"></script>
+
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+    <script src="/__/firebase/8.2.7/firebase-analytics.js"></script>
+
+    <!-- Initialize Firebase -->
+    <script src="/__/firebase/init.js"></script>
+</body>
+
+</html>
