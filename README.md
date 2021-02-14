@@ -13,32 +13,35 @@ With this system, aquaponic farmers can grow plants anytime and anywhere. It wor
 
 ## Implementation: 
 
+Hardware implementation
+
+Data transfer to firebase and then to web app
 
 
 ## Technology Stack  
 
 NodeMCU, firebase, html, css, javascript, blender
 
-### Tech1
+### NodeMCU
 
-description 
+Connected DHT and Ultrasonic sensor connected to NodeMCU and data sent to firebase.
 
-### Tech2
+### Firebase
 
-description
+Displaying data received on the web app.
 
 ## Picture/Screenshot 1
 <img src="https://github.com/shellymohanty09/AquaPonics/blob/main/Blender%20model/blend1.PNG">
 
 ## Picture/Screenshot 2
-<img src="source" >
+<img src="https://github.com/shellymohanty09/AquaPonics/blob/main/Hardware%20circuit%20sensors.jpg" >
   
 
 ## Prerequisites
 
-The following dependencies should be installed to run the code. 
-
-firebase dependencies in arduino as well as website folder
+```
+None
+```
 
 ## Challenges
 
