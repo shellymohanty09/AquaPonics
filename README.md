@@ -16,6 +16,8 @@
 
 ## Technology Stack  
 
+NodeMCU, firebase, html, css, javascript, blender
+
 ### Tech1
 
 description 
@@ -55,6 +57,8 @@ how to run the project
 Aquaponics has high market feasiblity as it is cheap and realiable. There is a possibility that aquapoics will replace crop production in the future has it has high food production rate, low energy consumption,  more resilience to flood and drought and less water requirement than traditional methods.
 
 ## Authors
-* [**Author1**](https://github.com/author1) 
-* [**Author2**](https://github.com/author2)
+* [**Shelly Mohanty**](https://github.com/) 
+* [**Ruthunjay**](https://github.com/author2)
+* [**Viswajith S A**](https://github.com/author1) 
+* [**Harshita Suresh**](https://github.com/author1) 
  
