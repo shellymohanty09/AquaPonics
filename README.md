@@ -50,7 +50,11 @@ package 2
 
 ## Getting Started
 
-how to run the project
+how to run the project-
+
+1) Connect the required sensors to node mcu
+2) Run the arduino code for connecting node mcu to firebase
+3) Download the updated website and open index.html page in the browser
 
 ## Future Aspects
 
