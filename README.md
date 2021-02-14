@@ -28,7 +28,7 @@ description
 description
 
 ## Picture/Screenshot 1
-<img src="source">
+<img src="https://github.com/shellymohanty09/AquaPonics/blob/main/Blender%20model/blend1.PNG">
 
 ## Picture/Screenshot 2
 <img src="source" >
