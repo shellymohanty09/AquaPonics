@@ -1,6 +1,7 @@
 # AquaPonics
 
-Aquaponics
+Aquaponics is a combination of aquaculture, which is growing fish and other aquatic animals, and hydroponics which is growing plants without soil. 
+With this system, aquaponic farmers can grow plants anytime and anywhere. It works by recycling the water in the system. Fishes in the tank, help fertilize the soil in the overhead plant bed. Because aquaponics recycles the water in the system, we can grow in droughts and areas with little water. Additionally, farmers can remotely control the whole system using a web app.
 
 
 ### Unique Selling Points
@@ -8,7 +9,7 @@ Aquaponics
 * Uses 90 % less water than conventional farming methods.
 * Separate fertilizers don't have to be used, completely organic by itself.
 * Cheap and feasible maintenance and requires less space (even indoor with grow lights)
-* 
+
 
 ## Implementation: 
 
@@ -50,7 +51,7 @@ package 2
 
 ## Getting Started
 
-how to run the project-
+How to run the project-
 
 1) Connect the required sensors to node mcu
 2) Run the arduino code for connecting node mcu to firebase
