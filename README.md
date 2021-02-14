@@ -9,7 +9,8 @@ With this system, aquaponic farmers can grow plants anytime and anywhere. It wor
 * Uses 90 % less water than conventional farming methods.
 * Separate fertilizers don't have to be used, completely organic by itself.
 * Cheap and feasible maintenance and requires less space (even indoor with grow lights)
-* Unique website to display information in graphical manner and remotely control the system  
+* Unique website to display information in graphical manner and remotely control the system, where a warning message will be displayed when the ratios are not in order.
+
 
 ## Implementation: 
 
@@ -30,17 +31,22 @@ Connected DHT and Ultrasonic sensor connected to NodeMCU and data sent to fireba
 
 Displaying data received on the web app.
 
-## Picture/Screenshot 1
+## Blender Model
 <img src="https://github.com/shellymohanty09/AquaPonics/blob/main/Blender%20model/blend1.PNG">
 
-## Picture/Screenshot 2
+## NodeMCU and Sensors
 <img src="https://github.com/shellymohanty09/AquaPonics/blob/main/Hardware%20circuit%20sensors.jpg" >
+
+## Website 
+<img src="https://github.com/shellymohanty09/AquaPonics/blob/main/Ss%20of%20website.png">
+
   
 
 ## Prerequisites
 
 ```
-None
+Arduino IDE
+Blender
 ```
 
 ## Challenges
@@ -58,6 +64,9 @@ How to run the project-
 3) Download the updated website and open index.html page in the browser
 
 ## Future Aspects
+
+* Deploy a fully functioning website.
+* Add the controls to the website. The farmer would be able to control the water level, temperature and humidity etc. , remotely.
 
 Aquaponics has high market feasiblity as it is cheap and realiable. There is a possibility that aquapoics will replace crop production in the future has it has high food production rate, low energy consumption,  more resilience to flood and drought and less water requirement than traditional methods.
 
