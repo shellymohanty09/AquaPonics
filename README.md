@@ -9,7 +9,7 @@ With this system, aquaponic farmers can grow plants anytime and anywhere. It wor
 * Uses 90 % less water than conventional farming methods.
 * Separate fertilizers don't have to be used, completely organic by itself.
 * Cheap and feasible maintenance and requires less space (even indoor with grow lights)
-
+* Unique website to display information in graphical manner and remotely control the system  
 
 ## Implementation: 
 
