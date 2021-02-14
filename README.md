@@ -1,6 +1,6 @@
 # AquaPonics
 
-
+Aquaponics
 
 
 ### Unique Selling Points
@@ -44,9 +44,9 @@ package 2
 
 ## Challenges
 
-Controlling from webpage
-Sending data to firebase
-Hardware implementation due to lack of resources
+* Controlling from webpage
+* Sending data to firebase
+* Hardware implementation due to lack of resources
 
 ## Getting Started
 
