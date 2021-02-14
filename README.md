@@ -1,7 +1,7 @@
 # AquaPonics
 
 Aquaponics is a combination of aquaculture, which is growing fish and other aquatic animals, and hydroponics which is growing plants without soil. 
-With this system, aquaponic farmers can grow plants anytime and anywhere. It works by recycling the water in the system. Fishes in the tank, help fertilize the soil in the overhead plant bed. Because aquaponics recycles the water in the system, we can grow in droughts and areas with little water. Additionally, farmers can remotely control the whole system using a web app.
+With this system, aquaponic farmers can grow plants anytime and anywhere. It works by recycling the water in the system. Fishes in the tank, help fertilize the overhead plant bed. Because aquaponics recycles the water in the system, we can grow in droughts and areas with little water. Additionally, farmers can remotely control the whole system using a web app.
 
 
 ### Unique Selling Points
