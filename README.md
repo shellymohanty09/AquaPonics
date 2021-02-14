@@ -30,11 +30,11 @@ Connected DHT and Ultrasonic sensor connected to NodeMCU and data sent to fireba
 
 Displaying data received on the web app.
 
-## Picture/Screenshot 1
-<img src="https://github.com/shellymohanty09/AquaPonics/blob/main/Blender%20model/blend1.PNG">
+## Pictures and Screenshots
 
-## Picture/Screenshot 2
-<img src="https://github.com/shellymohanty09/AquaPonics/blob/main/Hardware%20circuit%20sensors.jpg" >
+|Picture/Screenshot 1 | Picture/Screenshot 2|
+|------------|-------------|
+|<img src="https://github.com/shellymohanty09/AquaPonics/blob/main/Blender%20model/blend1.PNG">| <img src="https://github.com/shellymohanty09/AquaPonics/blob/main/Hardware%20circuit%20sensors.jpg" >|
   
 
 ## Prerequisites
