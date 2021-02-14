@@ -38,10 +38,7 @@ description
 
 The following dependencies should be installed to run the code. 
 
-```
-package 1
-package 2
-```
+firebase dependencies in arduino as well as website folder
 
 ## Challenges
 
